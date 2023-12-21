@@ -15,3 +15,7 @@ The goal of this simulation was to find out how many rounds depending on the inp
 This more of a sideproject I did during free time. I wanted to learn more about Unreal Engine and decided to implement an RPG like Inventory System.
 The UI doesn't look good and mechanics are still very basic, but it works in multiplayer.
 Players can pick up items and drop them. They can also equip them in a fitting slot and exchange them with other players by passing them through a chest.
+
+
+## LZW-Encoder
+This is another project we had to do at a course at university.
