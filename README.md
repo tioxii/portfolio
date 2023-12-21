@@ -1,5 +1,5 @@
 # Portfolio
-This repository consists of projects I have done so far.
+This repository consists of projects I have done during my time at the University or during my free time.
 
 ## Battleships
 This a project a did during my first semester at University. The task was to do a project in C and apply everything we learned so far. This could have been anything. I decided to implement Battleships by using SDL2.
