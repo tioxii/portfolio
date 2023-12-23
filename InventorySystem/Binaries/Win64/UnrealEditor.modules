@@ -1,0 +1,10 @@
+{
+	"BuildId": "23058290",
+	"Modules": 
+	{
+		"InteractionSystem": "UnrealEditor-InteractionSystem.dll",
+		"InventorySystem": "UnrealEditor-InventorySystem.dll",
+		"InventorySystem_MP": "UnrealEditor-InventorySystem_MP.dll",
+		"QuestSystem": "UnrealEditor-QuestSystem.dll"
+	}
+}
