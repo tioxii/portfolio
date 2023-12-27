@@ -2,7 +2,7 @@
 This repository consists of projects I have done during my time at the University or during my free time.
 
 ## Battleships
-This a project a did during my first semester at University. The task was to do a project in C and apply everything we learned so far. This could have been anything. I decided to implement Battleships (https://en.wikipedia.org/wiki/Battleship_(game)) by using SDL2.
+This a project a did during my first semester at University. The task was to do a project in C and apply everything we learned so far. This could have been anything. I decided to implement Battleships (https://en.wikipedia.org/wiki/Battleship_(game)) using SDL2.
 The code is not good, and is definitly not an example on how I code today. This project is supposed to show one of my passions. In order to run the project, which I do not recommend, you need to install SDL2.
 
 ## Bachelor's Thesis
