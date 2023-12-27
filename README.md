@@ -18,7 +18,7 @@ Players can pick up items and drop them. They can also equip them in a fitting s
 
 
 ## LZW-Encoder/Decoder
-This is another project we had to do at a course at university. The task was to implement the logic for an LZW-Encoder/Decoder (Lempel-Ziv-Welch) in C/C++. 
+This is another project we had to do at a course at university. The task was to implement the logic for an LZW-Encoder/Decoder (Lempel-Ziv-Welch: https://en.wikipedia.org/wiki/Lempel%E2%80%93Ziv%E2%80%93Welch) in C/C++. 
 The overall structure e.g. what files we should create and the tests to verify the absence of some erros were given to us.
 The logic inside the files was done by me.
 The goal of this project was to show us design principles, algorithms and data structures so we can learn to implement them.
