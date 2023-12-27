@@ -17,5 +17,8 @@ The UI doesn't look good and mechanics are still very basic, but it works in mul
 Players can pick up items and drop them. They can also equip them in a fitting slot and exchange them with other players by passing them through a chest.
 
 
-## LZW-Encoder
-This is another project we had to do at a course at university.
+## LZW-Encoder/Decoder
+This is another project we had to do at a course at university. The task was to implement the logic for an LZW-Encoder/Decoder (Lempel-Ziv-Welch) in C/C++. 
+The overall structure e.g. what files we should create and the tests to verify the absence of some erros were given to us.
+The logic inside the files was done by me.
+The goal of this project was to show us design principles, algorithms and data structures so we can learn to implement them.
