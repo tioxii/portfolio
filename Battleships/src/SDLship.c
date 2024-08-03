@@ -3,7 +3,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdbool.h>
-#include <SDL.h>
+#include <SDL2/SDL.h>
 #include <time.h>
 #include "shipOptions.h"
 #include "shipStructs.h"

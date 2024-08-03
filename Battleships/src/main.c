@@ -6,7 +6,7 @@
 #include "shipStructs.h"
 #include <stdbool.h>
 #include <stdio.h>
-#include <SDL.h>
+#include <SDL2/SDL.h>
 
 options op;
 

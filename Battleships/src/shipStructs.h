@@ -1,7 +1,7 @@
 #ifndef SHIPSTRUCTS_H_INCLUDED
 #define SHIPSTRUCTS_H_INCLUDED
 
-#include <SDL.h>
+#include <SDL2/SDL.h>
 #include <stdbool.h>
 
 typedef struct {
