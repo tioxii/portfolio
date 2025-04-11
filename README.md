@@ -1,9 +1,10 @@
 # Portfolio
-This repository consists of projects I have done during my time at the University or during my free time.
+This repository consists of projects I have done during my time at the University or in my free time.
 
 ## Battleships
-This a project a did during my first semester at University. The task was to do a project in C and apply everything we learned so far. This could have been anything. I decided to implement Battleships (https://en.wikipedia.org/wiki/Battleship_(game)) using SDL2.
-The code is not good, and is definitly not an example on how I code today. This project is supposed to show one of my passions. In order to run the project, which I do not recommend, you need to install SDL2.
+<a name="battleships"></a>
+This a project I did during my first semester at University. The task was to create something in C slightly bigger than our usual weekly tasks and apply everything we have learned so far. I decided to implement [Battleships](https://en.wikipedia.org/wiki/Battleship_(game)) using [SDL2](https://github.com/libsdl-org/SDL).
+I settled for Battleships since video games are one my passion. Since this was a first semester project the code is not good, not checked for security issues and is definitly not an example on how I would code today. If you want to run the code nontheless, click [here](Battleships/README.md) for more information.
 
 ## Bachelor's Thesis
 This folder consists of two projects regarding my bachelor's thesis. One part is a simulation software implemented in Java and the ther part are evaluation scripts written in python. 
@@ -17,9 +18,5 @@ The UI doesn't look good and mechanics are still very basic, but it works in mul
 Players can pick up items and drop them. They can also equip them in a fitting slot and exchange them with other players by passing them through a chest.
 It took me quiet a few iterations to find a design that makes it easy to add new items and still make it possible to be used in a multiplayer scenario.
 
-
-## LZW-Encoder/Decoder
-This is another project we had to do at a course at university. The task was to implement the logic for an LZW-Encoder/Decoder (Lempel-Ziv-Welch: https://en.wikipedia.org/wiki/Lempel-Ziv-Welch) in C/C++. 
-The overall structure e.g. what files we should create and the tests to verify the absence of some erros were given to us.
-The logic inside the files was done by me.
-The goal of this project was to show us design principles, algorithms and data structures so we can learn to implement them.
+## CUDA-Kernels
+During my time 
