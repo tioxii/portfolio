@@ -37,3 +37,11 @@ This is a list of possible settings a user can choose from by default. Some of t
 * *Number-Of-Cluster-Termination*: Terminates when only the given number opinions remain.
 * *Fifity-Percent-Termination*: Used with byzantine nodes and terminates the process, when over 50% of nodes adapted a faulty opinion.
 
+## Gallery
+
+The following images show some configurations and their results. The charts were put together in a separat python project with matplotlib. The orange dot denotes the center of mass.
+
+![picture of the circle configuration](../docs/Circle.svg)
+![picture of the circle configuration results with the closest node dynamics](../docs/Circle%20-%20Closest%20Node.svg)
+![picture of the random nodes configuration](../docs/Random%20Positions.svg)
+![picture of the random nodes configuration results with the closest to mean dynamics](../docs/Random%20Positions%20-%20Closest%20To%20Mean.svg)
