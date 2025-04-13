@@ -1,0 +1,3 @@
+add_subdirectory(reduction)
+add_subdirectory(kmeans)
+add_subdirectory(dstsmem_vs_l2)

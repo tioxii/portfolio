@@ -1,0 +1,16 @@
+cmake_minimum_required(VERSION 3.18)
+
+project(CUDA_BENCHMARKS LANGUAGES CUDA CXX C)
+
+set(CMAKE_CXX_STANDARD 17)
+set(CMAKE_CUDA_RUNTIME_LIBRARY SHARED)
+
+set(COMMON_INCLUDE_DIR ${CMAKE_CURRENT_SOURCE_DIR}/include)
+
+find_package(CUDAToolkit REQUIRED)
+
+set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${CMAKE_BINARY_DIR}/bin)
+
+include_directories(${COMMON_INCLUDE_DIR})
+
+add_subdirectory(src)
